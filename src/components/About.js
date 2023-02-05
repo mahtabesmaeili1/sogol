@@ -11,20 +11,11 @@ const About = () => {
 
       <div className="aboutText">
         <p style={{ color: "white" }}>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed maximus,
-          ex id malesuada convallis, libero libero congue enim, euismod suscipit
-          eros quam id lorem. Nulla at metus metus. Sed non nunc sed nulla
-          commodo blandit. Lorem ipsum dolor sit amet, consectetur adipiscing
-          elit. Sed maximus, ex id malesuada convallis, libero libero congue
-          enim, euismod suscipit eros quam id lorem. Nulla at metus metus. Sed
-          non nunc sed nulla commodo blandit. Lorem ipsum dolor sit amet,
-          consectetur adipiscing elit. Sed maximus, ex id malesuada convallis,
-          libero libero congue enim, euismod suscipit eros quam id lorem. Nulla
-          at metus metus. Sed non nunc sed nulla commodo blandit. Lorem ipsum
-          dolor sit amet, consectetur adipiscing elit. Sed maximus, ex id
-          malesuada convallis, libero libero congue enim, euismod suscipit eros
-          quam id lorem. Nulla at metus metus. Sed non nunc sed nulla commodo
-          blandit.
+          Wij, Positieve Lading Sogol, Diala , Larissa , Suus , bieden trots een
+          op maat gemaakt azijn-makend pakket aan om het proces voor u te
+          vergemakkelijken. Op onze website kunt u de componenten kiezen die u
+          nodig heeft en uw eigen pakket samenstellen. Wij zijn verheugd dat u
+          ons pakket heeft gekozen en hopen dat u er van geniet.
         </p>
       </div>
     </div>

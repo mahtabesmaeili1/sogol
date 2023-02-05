@@ -140,7 +140,7 @@
 }
 
 .content h2 {
-  color: #fff;
+  color: rgb(255, 255, 255);
   font-size: 50px;
   position: absolute;
 }
@@ -235,7 +235,7 @@
   animation: neon-pink-glow 1s ease-in-out infinite alternate;
 }
 
-/* body {
+body {
   background: linear-gradient(to right, #00ffff, #ff00ff);
   background-size: 400% 400%;
   animation: gradient 15s ease infinite;
@@ -252,10 +252,10 @@
   100% {
     background-position: 0% 50%;
   }
-} */
-
+}
+/* 
 body {
-  background: linear-gradient(45deg, #444, #111);
+  background: linear-gradient(45deg, rgb(85, 84, 84), #111);
   background-size: 400% 400%;
   animation: gradient 15s ease infinite;
 }
@@ -270,7 +270,7 @@ body {
   100% {
     background-position: 0% 50%;
   }
-}
+} */
 
 /*  items with check box */
 .ajzayeItem {
