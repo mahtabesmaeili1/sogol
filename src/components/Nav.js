@@ -7,7 +7,7 @@ const NavBar = () => {
   return (
     <div>
       <nav className="navbar">
-        <a className="navbar-brand neon-effect">SOGOL-DIALA-LARISSA-SUUS</a>
+        <p className="navbar-brand neon-effect">SOGOL-DIALA-LARISSA-SUUS</p>
         <ul className="navbar-nav">
           <li className="nav-item">
             <Link className="nav-link" to="/">
