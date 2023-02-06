@@ -243,7 +243,7 @@
 
 body {
   background: linear-gradient(to right, #00ffff, #ff00ff);
-  background-size: 400% 400%;
+  background-attachment: fixed;
   animation: gradient 15s ease infinite;
   color: white;
 }
