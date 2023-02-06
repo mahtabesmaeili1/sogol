@@ -62,13 +62,13 @@ const Items = () => {
                 </div>
 
                 <div style={{ marginRight: "20px" }}> {item.name}</div>
-                <div>${item.price}</div>
+                <div>€{item.price}</div>
               </label>
             </li>
           ))}
         </ul>{" "}
       </div>
-      <h3 className="total">Total: ${total}</h3>
+      <h3 className="total">Total: €{total}</h3>
 
       <div className="dokme">
         <button className="neon-button">BUY</button>
