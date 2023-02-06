@@ -47,7 +47,8 @@
 
 @media (max-width: 600px) {
   .navbar-brand {
-    font-size: x-small;
+    font-size: xx-small;
+    padding-left: 10px;
   }
   .navbar-nav {
     flex-direction: row;
