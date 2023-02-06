@@ -120,7 +120,11 @@
 }
 
 /* about page*/
-
+.separate {
+  display: flex;
+  flex-direction: column;
+  gap: 150px;
+}
 .aboutText {
   text-align: center;
   box-sizing: border-box;
@@ -129,7 +133,6 @@
   line-height: 3rem;
   font-size: 25px;
   margin: 20px;
-  margin-top: 150px;
 }
 
 .content {
