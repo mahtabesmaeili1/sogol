@@ -87,6 +87,8 @@
   position: fixed;
   height: 100%;
   display: flex;
+  background-attachment: fixed;
+  background-size: cover;
   align-items: center;
   justify-content: center;
   /* text-shadow: 8px 8px 16px #ffffff; */
